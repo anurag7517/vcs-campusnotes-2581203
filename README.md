@@ -14,3 +14,7 @@ CampusNotes is a simple student notes management project.
 
 ## Author
 Anurag Singh
+
+## Clone Verification
+This section was added from the cloned repository.
+It verifies the Git clone, commit, push and pull workflow.
